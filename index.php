@@ -5,16 +5,23 @@
     <meta name="viewport">
     <title>test</title>
     <link rel="stylesheet" href="style.css">
-    <a href="https://github.com/vladmorgan876/test/commit/d1f5c7ab98de7a30a4ca556fac5f0ca662f64f8e">ссылка на GITHUB/commit</a>
+
 </head>
 <body>
-<h1>Hello, NIX Education</h1>
+<header>
+    <a href="https://github.com/vladmorgan876/test/commit/d1f5c7ab98de7a30a4ca556fac5f0ca662f64f8e">ссылка на GITHUB/commit</a>
+</header>
+<div class="greeting">
+    <h1>Hello, NIX Education</h1>
+</div>
+
 
 <?php
+echo '<div class="button_area">';
 echo '<button class="button1"><a  href="table1.php">урок 1</a></button><br>';
 echo '<button  class="button1"><a  href="table2.php">урок 2</a></button><br>';
 echo '<button  class="button1"><a  href="str.php">урок 3</a></button>';
-
+echo '</div>';
 echo '<footer>';
 echo ' <a class="link" href="https://github.com/vladmorgan876/test.git">ссылка на репозиторий GitHub</a></p>';
 echo '</footer>';

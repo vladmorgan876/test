@@ -6,7 +6,7 @@
     <title>table 2</title>
     <link rel="stylesheet" href="style.css">
     <p style="font-size:20px"><a href="index.php">на главную</a></p>
-    <a href="">ссылка на GITHUB/commit</a>
+    <a href="https://github.com/vladmorgan876/test/commit/a06136fbb9b6de52dea206bea87019c86155b3f9">ссылка на GITHUB/commit</a>
 </head>
 <body>
 
