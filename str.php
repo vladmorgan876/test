@@ -7,13 +7,15 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<a href="index.php">на главную</a>
+<p style="font-size:20px"><a href="index.php">на главную</a></p>
+<a href="">ссылка на GITHUB/commit</a>
 <div class="main">
 <div class="form">
 <form action="revers.php" method="post">
     <input type="text" name="str" id="str" placeholder="текст"><p></p><br>
     <button CLASS="button2"  type="submit" name="change">изменить</button>
 </form>
+
 </div>
 </div>
 </body>
