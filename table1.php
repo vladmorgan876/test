@@ -5,7 +5,8 @@
     <meta name="viewport">
     <title>table 1</title>
     <link rel="stylesheet" href="style.css">
-    <a href="index.php">на главную</a>
+    <p style="font-size:20px"><a href="index.php">на главную</a></p>
+    <a href="">ссылка на GITHUB/commit</a>
 </head>
 <body>
 
