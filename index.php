@@ -5,7 +5,7 @@
     <meta name="viewport">
     <title>test</title>
     <link rel="stylesheet" href="style.css">
-    <a href="">ссылка на GITHUB/commit</a>
+    <a href="https://github.com/vladmorgan876/test/commit/d1f5c7ab98de7a30a4ca556fac5f0ca662f64f8e">ссылка на GITHUB/commit</a>
 </head>
 <body>
 <h1>Hello, NIX Education</h1>
