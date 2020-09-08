@@ -9,7 +9,7 @@
 </head>
 <body>
 <header>
-    <a href="https://github.com/vladmorgan876/test/commit/d1f5c7ab98de7a30a4ca556fac5f0ca662f64f8e">ссылка на GITHUB/commit</a>
+    <a href="">ссылка на GITHUB/commit</a>
 </header>
 <div class="greeting">
     <h1>Hello, NIX Education</h1>
